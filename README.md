@@ -1,4 +1,3 @@
-# gabrielcardoso
 
 <h1 align="center">Bem vindo, meu nome é Gabriel Cardoso 👋</h1>
 

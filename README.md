@@ -10,8 +10,7 @@
 ## 🧠 Sobre mim
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas na UNIESBAM, em Manaus
 - 💻 Construindo minha base em front-end, Python, Java (POO) e PostgreSQL
-- 🚀 Aprendendo na prática, com projetos reais
-- 🔎 Buscando minha primeira oportunidade de estágio em tecnologia
+- 🚀 Aprendendo na prática, com projetos reais e pessoais.
 
 ---
 
